@@ -1,0 +1,7 @@
+[submodule "llm"]
+	path = llm
+	url = https://github.com/Andron00e/Clipped-AdaGrad-and-Adam
+[submodule "resnet"]
+	path = resnet
+	url = https://github.com/Andron00e/Clipped-AdaGrad-and-Adam
+	branch = layerwise=clip
