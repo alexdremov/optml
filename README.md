@@ -31,3 +31,9 @@ Our results demonstrate that clipping largely improves training under heavy-tail
 Code is split into two parts: llm-based code and resnet-based code. They refer to the same repository, but different branches. We made such choice for reproducibility reasons as some changes of resnet experiments may be breaking.
 
 We provide bash file `run.sh` that should reproduce the reported results.
+
+To fetch git submodules code, use
+
+```
+git submodule update --init
+```
