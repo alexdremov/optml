@@ -1,0 +1,1 @@
+bash resnet/ResNet_training/run_all.sh
