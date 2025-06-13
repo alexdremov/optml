@@ -1,1 +1,1 @@
-bash resnet/ResNet_training/run_all.sh
+bash resnet/ResNet_training/run.sh
