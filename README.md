@@ -53,7 +53,7 @@ The code is divided into two parts:
 ## How to install
 
 ```bash
-git clone https://github.com/yaroslavkliukin/Clipped-AdaGrad-and-Adam
+git clone https://github.com/Andron00e/Clipped-AdaGrad-and-Adam
 cd Clipped-AdaGrad-and-Adam
 pip install -r requirements.txt
 ```
